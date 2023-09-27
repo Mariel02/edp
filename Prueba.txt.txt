@@ -1,3 +1,4 @@
 Universidad de panama
 Centro Regional Universitario de Cocle
-Asignatura Entornos de Programacion 
+Asignatura: Entornos de Programacion 
+Estudiante: Angee Vargas
